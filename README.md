@@ -1,4 +1,4 @@
-# RAG Chatbot using IBM Watsonx.ai and LangChain
+# RAG based QA Bot for Quest Analytics
 
 ## Overview
 This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** that leverages **IBM Watsonx.ai**, **LangChain**, and **Gradio** to answer questions based on uploaded PDF documents. The chatbot efficiently retrieves relevant document sections and provides precise answers using a **large language model (LLM)**.
